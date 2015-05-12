@@ -7,3 +7,7 @@ ServiceStack server for the WhoOwesWhat-Ionic hybrid app
 
 If a MSSQL server is installed, it will create a empty database for the application.
 The ServiceStack server is configured to work with CORS.
+
+Architecture:
+https://www.lucidchart.com/documents/view/fefbb1c3-efdc-41d7-9e27-768cf406846f
+
